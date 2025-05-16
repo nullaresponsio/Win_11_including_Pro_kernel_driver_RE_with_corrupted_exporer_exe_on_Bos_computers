@@ -1,3 +1,5 @@
+# PowerShell wildcards not sure if bracket-set is all Bracket‐set wildcards
+
 # Win_11_including_Pro_kernel_driver_RE_with_corrupted_exporer_exe_on_Bos_computers
 
 ![alt text](Windows_11_Secure_Boot_Crytographic_Chain.png)
