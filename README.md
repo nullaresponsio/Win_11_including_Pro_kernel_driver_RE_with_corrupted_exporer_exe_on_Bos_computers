@@ -29,3 +29,5 @@ digraph Win11BootCrypto {
     /* convergence */
     Kernel       -> Drivers [style=dashed, label="ELAM / KCI"];
 }
+
+![alt text](Trigger_Wildcard_Mode_On_VSCode_Terminal_created_through_Explorer_Exe_On_Win_11_via_Kernel_Drivers.png) ![alt text](Powershell_GUI_Win_11_Pro_on_Bo_Computer.png)
